@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cnaaydemq3k3e1br?svg=true)](https://ci.appveyor.com/project/lcamichigan/founders-day-banner)
 
 This is a collection of resources for creating a Founders Day banner for
-[Sigma Zeta of ΛΧΑ](http://lcamichigan.com).
+[Sigma Zeta of ΛΧΑ](https://lcamichigan.com).
 
 ## Contents
 
